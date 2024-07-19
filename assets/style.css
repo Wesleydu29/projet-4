@@ -74,6 +74,7 @@ nav a {
 #about-me {
 	flex: 2
 }
+
 .about-me__title {
 	margin-top: 1em;
 	margin-bottom: 60px;
@@ -354,4 +355,6 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
+.carousel-item img {
+	aspect-ratio: 16/7;
+}
